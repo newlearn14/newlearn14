@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newlearn14&label=Profile%20views&color=0e75b6&style=flat" alt="newlearn14" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Java Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/om-more-93294026b/](https://www.linkedin.com/in/om-more-93294026b/)
 
