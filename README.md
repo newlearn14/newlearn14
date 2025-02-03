@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/om-more-93294026b/](https://www.linkedin.com/in/om-more-93294026b/)
 
-- 📫 How to reach me **ommore3710@gmail.com**
+- 📫 How to reach me **ommore813214@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
